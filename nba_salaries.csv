@@ -1,0 +1,418 @@
+﻿RANK,PLAYER,POSITION,TEAM,SALARY ($M)
+1,Kobe Bryant,SF,Los Angeles Lakers,25
+2,Joe Johnson,SF,Brooklyn Nets,24.894863
+3,LeBron James,SF,Cleveland Cavaliers,22.9705
+4,Carmelo Anthony,SF,New York Knicks,22.875
+5,Dwight Howard,C,Houston Rockets,22.359364
+6,Chris Bosh,PF,Miami Heat,22.19273
+7,Chris Paul,PG,Los Angeles Clippers,21.468695
+8,Kevin Durant,SF,Oklahoma City Thunder,20.158622
+9,Derrick Rose,PG,Chicago Bulls,20.093064
+10,Dwyane Wade,SG,Miami Heat,20
+11,LaMarcus Aldridge,PF,San Antonio Spurs,19.689
+12,Kevin Love,PF,Cleveland Cavaliers,19.689
+13,Marc Gasol,C,Memphis Grizzlies,19.688
+14,Blake Griffin,PF,Los Angeles Clippers,18.907726
+15,Paul Millsap,PF,Atlanta Hawks,18.671659
+16,Paul George,SF,Indiana Pacers,17.120106
+17,Russell Westbrook,PG,Oklahoma City Thunder,16.744218
+18,Kyrie Irving,PG,Cleveland Cavaliers,16.407501
+19,Kawhi Leonard,SF,San Antonio Spurs,16.4075
+20,Enes Kanter,C,Oklahoma City Thunder,16.4075
+21,Jimmy Butler,SG,Chicago Bulls,16.4075
+22,Tobias Harris,SF,Orlando Magic,16
+23,John Wall,PG,Washington Wizards,15.85195
+24,DeMarcus Cousins,C,Sacramento Kings,15.85195
+25,James Harden,SG,Houston Rockets,15.756438
+26,Roy Hibbert,C,Los Angeles Lakers,15.592217
+27,Eric Gordon,SG,New Orleans Pelicans,15.514031
+28,Klay Thompson,SG,Golden State Warriors,15.501
+29,David Lee,PF,Dallas Mavericks,15.49368
+30,Gordon Hayward,SF,Utah Jazz,15.40957
+31,Chandler Parsons,SF,Dallas Mavericks,15.3615
+32,Goran Dragic,PG,Miami Heat,14.783
+33,Khris Middleton,SG,Milwaukee Bucks,14.7
+34,Draymond Green,PF,Golden State Warriors,14.26087
+35,Tristan Thompson,C,Cleveland Cavaliers,14.26087
+36,Danilo Gallinari,SF,Denver Nuggets,14
+37,Reggie Jackson,PG,Detroit Pistons,13.913044
+38,Andrew Bogut,C,Golden State Warriors,13.8
+39,DeMarre Carroll,SF,Toronto Raptors,13.6
+40,Al Jefferson,C,Charlotte Hornets,13.5
+41,Eric Bledsoe,PG,Phoenix Suns,13.5
+42,Tony Parker,PG,San Antonio Spurs,13.4375
+43,Joakim Noah,C,Chicago Bulls,13.4
+44,Nicolas Batum,SG,Charlotte Hornets,13.125306
+45,Nene Hilario,C,Washington Wizards,13
+46,Tyson Chandler,C,Phoenix Suns,13
+47,Ricky Rubio,PG,Minnesota Timberwolves,12.7
+48,Robin Lopez,C,New York Knicks,12.65
+49,Ty Lawson,PG,Houston Rockets,12.404495
+50,Rudy Gay,SF,Sacramento Kings,12.403101
+51,Serge Ibaka,PF,Oklahoma City Thunder,12.25
+52,Nikola Pekovic,C,Minnesota Timberwolves,12.1
+53,Kemba Walker,PG,Charlotte Hornets,12
+54,Kyle Lowry,PG,Toronto Raptors,12
+55,Al Horford,C,Atlanta Hawks,12
+56,Andre Iguodala,SF,Golden State Warriors,11.710456
+57,Stephen Curry,PG,Golden State Warriors,11.370786
+58,Nikola Vucevic,C,Orlando Magic,11.25
+59,Thaddeus Young,PF,Brooklyn Nets,11.235955
+60,Kenneth Faried,PF,Denver Nuggets,11.235955
+61,Marcin Gortat,C,Washington Wizards,11.217391
+62,Tyreke Evans,SG,New Orleans Pelicans,10.734586
+63,Jrue Holiday,PG,New Orleans Pelicans,10.595507
+64,Brendan Haywood,C,Cleveland Cavaliers,10.5225
+65,Wilson Chandler,SF,Denver Nuggets,10.449438
+66,Monta Ellis,SG,Indiana Pacers,10.3
+67,Luol Deng,SF,Miami Heat,10.151612
+68,Gerald Wallace,SF,Philadelphia 76ers,10.105855
+69,DeMar DeRozan,SG,Toronto Raptors,10.05
+70,Danny Green,SG,San Antonio Spurs,10
+71,Tiago Splitter,C,Atlanta Hawks,9.75625
+72,Zach Randolph,PF,Memphis Grizzlies,9.638555
+73,Mike Conley,PG,Memphis Grizzlies,9.588426
+74,Rajon Rondo,PG,Sacramento Kings,9.5
+75,Alec Burks,SG,Utah Jazz,9.463484
+76,Jeff Green,SF,Memphis Grizzlies,9.45
+77,Omer Asik,C,New Orleans Pelicans,9.213483
+78,Lance Stephenson,SF,Memphis Grizzlies,9
+79,Iman Shumpert,SG,Cleveland Cavaliers,8.988765
+80,Kevin Garnett,PF,Minnesota Timberwolves,8.5
+81,Ryan Anderson,PF,New Orleans Pelicans,8.5
+82,Brandon Jennings,PG,Orlando Magic,8.344497
+83,Dirk Nowitzki,PF,Dallas Mavericks,8.333334
+84,Corey Brewer,SG,Houston Rockets,8.229375
+85,Trevor Ariza,SF,Houston Rockets,8.19303
+86,Channing Frye,PF,Orlando Magic,8.193029
+87,Al-Farouq Aminu,SF,Portland Trail Blazers,8.042895
+88,Markieff Morris,PF,Washington Wizards,8
+89,O.J. Mayo,SG,Milwaukee Bucks,8
+90,Arron Afflalo,SG,New York Knicks,8
+91,Jeff Teague,PG,Atlanta Hawks,8
+92,Ersan Ilyasova,PF,Orlando Magic,7.9
+93,Avery Bradley,PG,Boston Celtics,7.730337
+94,Kosta Koufos,C,Sacramento Kings,7.7
+95,Boris Diaw,C,San Antonio Spurs,7.5
+96,Pau Gasol,C,Chicago Bulls,7.44876
+97,Jose Calderon,PG,New York Knicks,7.402812
+98,Kevin Martin,SG,Minnesota Timberwolves,7.085
+99,J.J. Redick,SG,Los Angeles Clippers,7.085
+100,Anthony Davis,PF,New Orleans Pelicans,7.07073
+101,Jason Thompson,PF,Golden State Warriors,7.008475
+102,Marvin Williams,PF,Charlotte Hornets,7
+103,Cory Joseph,PG,Toronto Raptors,7
+104,Louis Williams,SG,Los Angeles Lakers,7
+105,Rodney Stuckey,PG,Indiana Pacers,7
+106,Ed Davis,C,Portland Trail Blazers,6.980802
+107,Isaiah Thomas,PG,Boston Celtics,6.912869
+108,Jae Crowder,SF,Boston Celtics,6.796117
+109,Greivis Vasquez,PG,Milwaukee Bucks,6.6
+110,Carl Landry,PF,Philadelphia 76ers,6.5
+111,Aron Baynes,C,Detroit Pistons,6.5
+112,Patrick Beverley,PG,Houston Rockets,6.486486
+113,Michael Kidd-Gilchrist,SF,Charlotte Hornets,6.331404
+114,Jarrett Jack,PG,Brooklyn Nets,6.3
+115,Jodie Meeks,SG,Detroit Pistons,6.27
+116,Patrick Patterson,PF,Toronto Raptors,6.268675
+117,Spencer Hawes,PF,Charlotte Hornets,6.110034
+118,Marco Belinelli,SG,Sacramento Kings,6.060606
+119,Gerald Henderson,SG,Portland Trail Blazers,6
+120,Andrew Wiggins,SG,Minnesota Timberwolves,5.75868
+121,Kyle Korver,SG,Atlanta Hawks,5.746479
+122,Karl-Anthony Towns,C,Minnesota Timberwolves,5.7036
+123,Bradley Beal,SG,Washington Wizards,5.694674
+124,Courtney Lee,SG,Charlotte Hornets,5.675
+125,Jamal Crawford,SG,Los Angeles Clippers,5.675
+126,Martell Webster,SF,Washington Wizards,5.6135
+127,JJ Hickson,C,Denver Nuggets,5.6135
+128,Shaun Livingston,PG,Golden State Warriors,5.543725
+129,Josh McRoberts,PF,Miami Heat,5.543725
+130,Nikola Mirotic,PF,Chicago Bulls,5.543725
+131,Mirza Teletovic,PF,Phoenix Suns,5.5
+132,P.J. Tucker,SF,Phoenix Suns,5.5
+133,Brandan Wright,PF,Memphis Grizzlies,5.464
+134,Deron Williams,PG,Dallas Mavericks,5.378974
+135,Tim Duncan,C,San Antonio Spurs,5.25
+136,Nick Young,SF,Los Angeles Lakers,5.219169
+137,Zaza Pachulia,C,Dallas Mavericks,5.2
+138,Victor Oladipo,SG,Orlando Magic,5.19252
+139,Tony Allen,SG,Memphis Grizzlies,5.158539
+140,Jabari Parker,PF,Milwaukee Bucks,5.15244
+141,Dion Waiters,SG,Oklahoma City Thunder,5.13843
+142,D'Angelo Russell,PG,Los Angeles Lakers,5.10312
+143,Chris Kaman,C,Portland Trail Blazers,5.016
+144,Darren Collison,PG,Sacramento Kings,5.013559
+145,Chase Budinger,SF,Indiana Pacers,5
+146,Chris Andersen,PF,Memphis Grizzlies,5
+147,Jonas Jerebko,PF,Boston Celtics,5
+148,Timofey Mozgov,C,Cleveland Cavaliers,4.95
+149,Trevor Booker,PF,Utah Jazz,4.775
+150,Otto Porter Jr.,SF,Washington Wizards,4.66296
+151,Jonas Valanciunas,C,Toronto Raptors,4.660482
+152,Joel Embiid,C,Philadelphia 76ers,4.62696
+153,Jahlil Okafor,C,Philadelphia 76ers,4.58268
+154,Kyle Singler,SF,Oklahoma City Thunder,4.5
+155,Mike Dunleavy,SG,Chicago Bulls,4.5
+156,Kris Humphries,PF,Washington Wizards,4.44
+157,C.J. Miles,SF,Indiana Pacers,4.394225
+158,Alexis Ajinca,C,New Orleans Pelicans,4.389607
+159,Jared Dudley,SF,Washington Wizards,4.375
+160,Jameer Nelson,PG,Denver Nuggets,4.345
+161,Mario Chalmers,PG,Memphis Grizzlies,4.3
+162,Jason Smith,PF,Orlando Magic,4.3
+163,J.J. Barea,PG,Dallas Mavericks,4.29
+164,Damian Lillard,PG,Portland Trail Blazers,4.236287
+165,Cody Zeller,C,Charlotte Hornets,4.2042
+166,Aaron Gordon,PF,Orlando Magic,4.17168
+167,Kristaps Porzingis,PF,New York Knicks,4.13172
+168,Vince Carter,SG,Memphis Grizzlies,4.088019
+169,Devin Harris,PG,Dallas Mavericks,4.053446
+170,Lavoy Allen,PF,Indiana Pacers,4.05
+171,Alan Anderson,SG,Washington Wizards,4
+172,Jordan Hill,C,Indiana Pacers,4
+173,Ian Mahinmi,C,Indiana Pacers,4
+174,Derrick Williams,PF,New York Knicks,4
+175,Thabo Sefolosha,SF,Atlanta Hawks,4
+176,Raymond Felton,PG,Dallas Mavericks,3.950313
+177,Nemanja Bjelica,PF,Minnesota Timberwolves,3.950001
+178,Harrison Barnes,SF,Golden State Warriors,3.873398
+179,Marreese Speights,C,Golden State Warriors,3.815
+180,Alex Len,C,Phoenix Suns,3.80712
+181,Dante Exum,PG,Utah Jazz,3.77772
+182,Nick Collison,PF,Oklahoma City Thunder,3.75
+183,Kyle O'Quinn,PF,New York Knicks,3.75
+184,Mario Hezonja,SG,Orlando Magic,3.74148
+185,Patty Mills,PG,San Antonio Spurs,3.578947
+186,Terrence Ross,SF,Toronto Raptors,3.553917
+187,Matt Barnes,SF,Memphis Grizzlies,3.5425
+188,Will Barton,SF,Denver Nuggets,3.533333
+189,Nerlens Noel,PF,Philadelphia 76ers,3.4578
+190,Marcus Smart,PG,Boston Celtics,3.43104
+191,Bojan Bogdanovic,SG,Brooklyn Nets,3.42551
+192,Evan Turner,SG,Boston Celtics,3.42551
+193,Willie Cauley-Stein,C,Sacramento Kings,3.39828
+194,Quincy Pondexter,SF,New Orleans Pelicans,3.382023
+195,Paul Pierce,SF,Los Angeles Clippers,3.376
+196,Anthony Morrow,SG,Oklahoma City Thunder,3.344
+197,Mike Scott,PF,Atlanta Hawks,3.333333
+198,Drew Gooden,PF,Washington Wizards,3.3
+199,Andre Drummond,C,Detroit Pistons,3.272091
+200,K.J. McDaniels,SG,Houston Rockets,3.189794
+201,Ben McLemore,SG,Sacramento Kings,3.1566
+202,Randy Foye,SG,Oklahoma City Thunder,3.135
+203,Julius Randle,PF,Los Angeles Lakers,3.13224
+204,Austin Rivers,PG,Los Angeles Clippers,3.110796
+205,Emmanuel Mudiay,PG,Denver Nuggets,3.10224
+206,Meyers Leonard,PF,Portland Trail Blazers,3.07588
+207,Norris Cole,PG,New Orleans Pelicans,3.036927
+208,Jeremy Lamb,SG,Charlotte Hornets,3.034356
+209,Jerryd Bayless,PG,Milwaukee Bucks,3
+210,Brandon Bass,PF,Los Angeles Lakers,3
+211,D.J. Augustin,PG,Oklahoma City Thunder,3
+212,John Henson,PF,Milwaukee Bucks,2.943221
+213,Luis Scola,PF,Toronto Raptors,2.9
+214,Tibor Pleiss,C,Utah Jazz,2.9
+215,Maurice Harkless,SF,Portland Trail Blazers,2.894059
+216,Kentavious Caldwell-Pope,SG,Detroit Pistons,2.89176
+217,Nik Stauskas,SG,Philadelphia 76ers,2.86944
+218,Udonis Haslem,PF,Miami Heat,2.85494
+219,Brian Roberts,PG,Charlotte Hornets,2.85494
+220,Kirk Hinrich,SG,Chicago Bulls,2.85494
+221,Dante Cunningham,PF,New Orleans Pelicans,2.85
+222,Stanley Johnson,SF,Detroit Pistons,2.84196
+223,Furkan Aldemir,PF,Philadelphia 76ers,2.836768
+224,Omri Casspi,SF,Sacramento Kings,2.836186
+225,Bismack Biyombo,C,Toronto Raptors,2.814
+226,Manu Ginobili,SG,San Antonio Spurs,2.814
+227,Darrell Arthur,PF,Denver Nuggets,2.814
+228,Luke Ridnour,PG,Toronto Raptors,2.75
+229,Trey Burke,PG,Utah Jazz,2.65824
+230,Noah Vonleh,PF,Portland Trail Blazers,2.63772
+231,Tyler Zeller,C,Boston Celtics,2.616975
+232,Frank Kaminsky III,C,Charlotte Hornets,2.61252
+233,Jared Sullinger,C,Boston Celtics,2.56926
+234,C.J. McCollum,SG,Portland Trail Blazers,2.52516
+235,Elfrid Payton,PG,Orlando Magic,2.50572
+236,James Johnson,PF,Toronto Raptors,2.5
+237,Leandro Barbosa,SG,Golden State Warriors,2.5
+238,Joel Anthony,C,Detroit Pistons,2.5
+239,Terrence Jones,PF,Houston Rockets,2.48953
+240,Justise Winslow,SF,Miami Heat,2.48172
+241,Shelvin Mack,PG,Utah Jazz,2.433333
+242,Michael Carter-Williams,PG,Milwaukee Bucks,2.39904
+243,Andrew Nicholson,PF,Orlando Magic,2.380593
+244,Doug McDermott,SF,Chicago Bulls,2.38044
+245,Myles Turner,PF,Indiana Pacers,2.35776
+246,Evan Fournier,SG,Orlando Magic,2.288205
+247,Donatas Motiejunas,PF,Houston Rockets,2.288205
+248,Steven Adams,C,Oklahoma City Thunder,2.27904
+249,Aaron Brooks,PG,Chicago Bulls,2.25
+250,Trey Lyles,PF,Utah Jazz,2.2398
+251,Tony Wroten,SG,Philadelphia 76ers,2.179353
+252,Ramon Sessions,PG,Washington Wizards,2.170465
+253,Beno Udrih,PG,Memphis Grizzlies,2.170465
+254,Danny Granger,SF,Detroit Pistons,2.170465
+255,Kelly Olynyk,C,Boston Celtics,2.16516
+256,Zach LaVine,PG,Minnesota Timberwolves,2.14836
+257,Kendall Marshall,PG,Philadelphia 76ers,2.144772
+258,Jeremy Lin,PG,Charlotte Hornets,2.139
+259,Gary Neal,PG,Washington Wizards,2.139
+260,Devin Booker,SG,Phoenix Suns,2.12784
+261,Miles Plumlee,C,Milwaukee Bucks,2.109294
+262,Mo Williams,PG,Cleveland Cavaliers,2.1
+263,Shabazz Muhammad,SF,Minnesota Timberwolves,2.05692
+264,Joe Ingles,SF,Utah Jazz,2.05
+265,T.J. Warren,SF,Phoenix Suns,2.04108
+266,Perry Jones,SF,Boston Celtics,2.038206
+267,Cameron Payne,PG,Oklahoma City Thunder,2.02152
+268,Festus Ezeli,C,Golden State Warriors,2.008748
+269,DeJuan Blair,C,Washington Wizards,2
+270,Kent Bazemore,SF,Atlanta Hawks,2
+271,Giannis Antetokounmpo,SF,Milwaukee Bucks,1.95396
+272,Adreian Payne,PF,Minnesota Timberwolves,1.93884
+273,Kelly Oubre Jr.,SF,Washington Wizards,1.92024
+274,Lucas Nogueira,C,Toronto Raptors,1.842
+275,Jusuf Nurkic,C,Denver Nuggets,1.842
+276,Terry Rozier,PG,Boston Celtics,1.82436
+277,Dennis Schroder,PG,Atlanta Hawks,1.7634
+278,James Young,SG,Boston Celtics,1.74984
+279,Rashad Vaughn,SG,Milwaukee Bucks,1.73304
+280,Ryan Kelly,PF,Los Angeles Lakers,1.72425
+281,Joffrey Lauvergne,C,Denver Nuggets,1.709719
+282,Zoran Dragic,SG,Boston Celtics,1.706225
+283,Tyler Ennis,PG,Milwaukee Bucks,1.66236
+284,Sam Dekker,SF,Houston Rockets,1.6464
+285,Lance Thomas,SF,New York Knicks,1.636842
+286,Lou Amundson,PF,New York Knicks,1.635476
+287,Sergey Karasev,SG,Brooklyn Nets,1.59984
+288,Gary Harris,SG,Denver Nuggets,1.58448
+289,Jerian Grant,PG,New York Knicks,1.57236
+290,Tony Snell,SF,Chicago Bulls,1.53588
+291,Bruno Caboclo,SF,Toronto Raptors,1.524
+292,Delon Wright,PG,Toronto Raptors,1.50936
+293,Wayne Ellington,SG,Brooklyn Nets,1.5
+294,Shane Larkin,PG,Brooklyn Nets,1.5
+295,David West,PF,San Antonio Spurs,1.499187
+296,Gorgui Dieng,C,Minnesota Timberwolves,1.47444
+297,Mitch McGary,PF,Oklahoma City Thunder,1.46304
+298,Caron Butler,SF,Sacramento Kings,1.449187
+299,Justin Anderson,SG,Dallas Mavericks,1.449
+300,Mason Plumlee,C,Portland Trail Blazers,1.41552
+301,Jordan Adams,SG,Memphis Grizzlies,1.4046
+302,Bobby Portis,PF,Chicago Bulls,1.39116
+303,Andrea Bargnani,C,Brooklyn Nets,1.362897
+304,Solomon Hill,SF,Indiana Pacers,1.35888
+305,Rodney Hood,SG,Utah Jazz,1.34844
+306,Rondae Hollis-Jefferson,SG,Brooklyn Nets,1.33548
+307,Alonzo Gee,SF,New Orleans Pelicans,1.32
+308,Tim Hardaway Jr.,SG,Atlanta Hawks,1.30452
+309,Nikola Jokic,C,Denver Nuggets,1.3
+310,Shabazz Napier,PG,Orlando Magic,1.29444
+311,Tyus Jones,PG,Minnesota Timberwolves,1.28208
+312,Sasha Kaun,C,Cleveland Cavaliers,1.276
+313,Brandon Rush,SF,Golden State Warriors,1.270964
+314,JaVale McGee,C,Dallas Mavericks,1.270964
+315,Reggie Bullock,SF,Detroit Pistons,1.25244
+316,Clint Capela,PF,Houston Rockets,1.24272
+317,Jarell Martin,PF,Memphis Grizzlies,1.23084
+318,Andre Roberson,SG,Oklahoma City Thunder,1.2108
+319,P.J. Hairston,SF,Charlotte Hornets,1.20144
+320,Boban Marjanovic,C,San Antonio Spurs,1.2
+321,Reggie Williams,SF,San Antonio Spurs,1.185784
+322,Earl Clark,SF,Brooklyn Nets,1.185784
+323,Rudy Gobert,C,Utah Jazz,1.17588
+324,Jordan Mickey,PF,Boston Celtics,1.17096
+325,Toney Douglas,PG,New Orleans Pelicans,1.164858
+326,Archie Goodwin,SG,Phoenix Suns,1.16016
+327,C.J. Wilcox,SG,Los Angeles Clippers,1.15968
+328,Larry Nance Jr.,PF,Los Angeles Lakers,1.1556
+329,Chris Copeland,SF,Milwaukee Bucks,1.15
+330,Damjan Rudez,SF,Minnesota Timberwolves,1.1495
+331,R.J. Hunter,SG,Boston Celtics,1.14864
+332,Matthew Dellavedova,PG,Cleveland Cavaliers,1.147276
+333,Kyle Anderson,SF,San Antonio Spurs,1.14288
+334,Josh Huestis,SF,Oklahoma City Thunder,1.14024
+335,Chris McCullough,PF,Brooklyn Nets,1.14024
+336,Kevon Looney,SF,Golden State Warriors,1.13196
+337,Garrett Temple,SG,Washington Wizards,1.100602
+338,Henry Walker,SF,Miami Heat,1.100602
+339,Cole Aldrich,C,Los Angeles Clippers,1.100602
+340,Wesley Johnson,SF,Los Angeles Clippers,1.100602
+341,Luke Babbitt,SF,New Orleans Pelicans,1.100602
+342,Glenn Robinson III,SG,Indiana Pacers,1.1
+343,Richaun Holmes,PF,Philadelphia 76ers,1.074169
+344,Jon Leuer,PF,Phoenix Suns,1.035
+345,Jordan Hamilton,SG,Los Angeles Clippers,1.015421
+346,Lester Hudson,SG,Los Angeles Clippers,1.015421
+347,James Anderson,SG,Sacramento Kings,1.015421
+348,E'Twaun Moore,SG,Chicago Bulls,1.015421
+349,Rakeem Christmas,PF,Indiana Pacers,1.007026
+350,Joe Young,PG,Indiana Pacers,1.007026
+351,Robert Covington,SF,Philadelphia 76ers,1
+352,Montrezl Harrell,PF,Houston Rockets,1
+353,Walter Tavares,C,Atlanta Hawks,1
+354,Thomas Robinson,PF,Brooklyn Nets,0.981348
+355,Jerel McNeal,SG,Phoenix Suns,0.981348
+356,Robert Sacre,C,Los Angeles Lakers,0.981348
+357,Chris Johnson,SF,Utah Jazz,0.981348
+358,John Jenkins,SG,Dallas Mavericks,0.981348
+359,Pablo Prigioni,PG,Los Angeles Clippers,0.947726
+360,Damien Wilkins,SG,Charlotte Hornets,0.947276
+361,Jorge Gutierrez,PG,Charlotte Hornets,0.947276
+362,Tyler Hansbrough,PF,Charlotte Hornets,0.947276
+363,Troy Daniels,SG,Charlotte Hornets,0.947276
+364,Ray McCallum,PG,San Antonio Spurs,0.947276
+365,Grant Jerrett,PF,Utah Jazz,0.947276
+366,Jeff Withey,C,Utah Jazz,0.947276
+367,Allen Crabbe,SG,Portland Trail Blazers,0.947276
+368,Kendrick Perkins,C,New Orleans Pelicans,0.947276
+369,Jason Richardson,SG,Atlanta Hawks,0.947276
+370,Raul Neto,PG,Utah Jazz,0.9
+371,Jimmer Fredette,PG,New York Knicks,0.874837
+372,Damien Inglis,SF,Milwaukee Bucks,0.855
+373,Tyler Johnson,SG,Miami Heat,0.845059
+374,Markel Brown,SG,Brooklyn Nets,0.845059
+375,Terrico White,SG,Phoenix Suns,0.845059
+376,Langston Galloway,SG,New York Knicks,0.845059
+377,Jerami Grant,SF,Philadelphia 76ers,0.845059
+378,JaMychal Green,PF,Memphis Grizzlies,0.845059
+379,Russ Smith,PG,Memphis Grizzlies,0.845059
+380,James Ennis,SF,Memphis Grizzlies,0.845059
+381,Jarnell Stokes,PF,Memphis Grizzlies,0.845059
+382,Kostas Papanikolaou,SF,Denver Nuggets,0.800321
+383,Bryce Cotton,PG,Phoenix Suns,0.700902
+384,Anthony Brown,SF,Los Angeles Lakers,0.7
+385,Norman Powell,SG,Toronto Raptors,0.65
+386,Pat Connaughton,SG,Portland Trail Blazers,0.625093
+387,Darrun Hilliard,SF,Detroit Pistons,0.6
+388,Jarell Eddie,SG,Washington Wizards,0.561716
+389,Greg Whittington,SF,Miami Heat,0.525093
+390,Josh Richardson,SG,Miami Heat,0.525093
+391,Corey Hawkins,PG,Miami Heat,0.525093
+392,Aaron Harrison,SG,Charlotte Hornets,0.525093
+393,Shannon Scott,PG,Toronto Raptors,0.525093
+394,Ronald Roberts Jr.,PF,Toronto Raptors,0.525093
+395,Treveon Graham,SG,Utah Jazz,0.525093
+396,Jarrid Famous,PF,Memphis Grizzlies,0.525093
+397,Luis Montero,SG,Portland Trail Blazers,0.525093
+398,Cliff Alexander,PF,Portland Trail Blazers,0.525093
+399,Bo McCalebb,PG,New Orleans Pelicans,0.525093
+400,Lamar Patterson,SG,Atlanta Hawks,0.525093
+401,Terran Petteway,SG,Atlanta Hawks,0.525093
+402,Steve Novak,SF,Oklahoma City Thunder,0.289755
+403,Anderson Varejao,PF,Golden State Warriors,0.289755
+404,JaKarr Sampson,SG,Philadelphia 76ers,0.258489
+405,Bryce Dejean-Jones,SG,New Orleans Pelicans,0.169883
+406,Lorenzo Brown,PG,Phoenix Suns,0.111444
+407,Ryan Hollins,C,Memphis Grizzlies,0.111444
+408,Jeff Ayres,PF,Los Angeles Clippers,0.111444
+409,Erick Green,PG,Utah Jazz,0.099418
+410,Sean Kilpatrick,SG,Denver Nuggets,0.099418
+411,Keith Appling,PG,Orlando Magic,0.061776
+412,Orlando Johnson,SG,Phoenix Suns,0.055722
+413,Elliot Williams,SG,Memphis Grizzlies,0.055722
+414,Phil Pressey,PG,Phoenix Suns,0.055722
+415,Jordan McRae,SG,Phoenix Suns,0.049709
+416,Cory Jefferson,PF,Phoenix Suns,0.049709
+417,Thanasis Antetokounmpo,SF,New York Knicks,0.030888
